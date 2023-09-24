@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MeuPrimeiroAppDIO</string>
+    <string name="hello_dev">Olá, Dev!</string>
+    <string name="explanation">O intuito deste app é aprender internacionalização de apps. Mude as configurações do dispositivo para os compatíveis.</string>
+    <string name="compatibility">Este app tem compatibilidade para os idiomas: Português-BR, Inglês-EUA, Espanhol-Espanha, Italiano-Itália e  Francês-França.</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeuPrimeiroAppDIO</string>
+    <string name="hello_dev">Hello, Dev!</string>
+    <string name="explanation">The purpose of this app is to learn app internationalization. Change device settings for supported languages.</string>
+    <string name="compatibility">This app supports the following languages: Portuguese-Brazil, English-USA, Spanish-Spain, Italian-Italy and French-France.</string>
+</resources>
